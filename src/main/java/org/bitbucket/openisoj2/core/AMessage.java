@@ -162,6 +162,9 @@ public abstract class AMessage implements Cloneable {
                 sb.append(System.getProperty("line.separator")).append(toString(i, prefix));
             }
         }
+        if (sb.length() == 0) {
+            sb.append(System.getProperty("line.separator"));
+        }
 
         return sb.toString().substring(System.getProperty("line.separator").length());
     }
