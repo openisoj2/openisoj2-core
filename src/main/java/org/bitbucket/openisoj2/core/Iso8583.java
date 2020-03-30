@@ -116,6 +116,9 @@ public class Iso8583 extends AMessage implements IMessage {
 		public static final int _0600_ADMIN_REQ = 0x600;
 		public static final int _0601_ADMIN_REQ_REP = 0x601;
 		public static final int _0610_ADMIN_REQ_RSP = 0x610;
+		public static final int _0620_ADMIN_ADV = 0x620;
+		public static final int _0621_ADMIN_ADV_REP = 0x621;
+		public static final int _0630_ADMIN_ADV_RSP = 0x630;
 		public static final int _0800_NWRK_MNG_REQ = 0x800;
 		public static final int _0801_NWRK_MNG_REQ_REP = 0x801;
 		public static final int _0810_NWRK_MNG_REQ_RSP = 0x810;
