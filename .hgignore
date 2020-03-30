@@ -1,9 +1,0 @@
-syntax: glob
-
-bin/**
-target/**
-.settings/**
-.classpath
-.project
-*~
-*.iml
