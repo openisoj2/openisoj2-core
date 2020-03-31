@@ -7,6 +7,16 @@ This is an fork/extension of the original OpenIsoJ Libarary which is no longer m
 Please contact for any pull requests/bugs/improvements etc.
 
 
+# Latest Release on Maven
+
+
+    <dependency>
+      <groupId>org.bitbucket.openisoj2</groupId>
+      <artifactId>core</artifactId>
+      <version>2.0.1-RELEASE</version>
+    </dependency>
+    
+
 # License
 
 Licensed under the MIT Licence, repeated below:
